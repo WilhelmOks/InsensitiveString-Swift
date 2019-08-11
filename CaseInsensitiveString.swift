@@ -1,8 +1,5 @@
 //
-//  CIString.swift
-//  CaseIsensitiveString
-//
-//  Created by Wilhelm Oks on 28.06.19.
+//  Created by Wilhelm Oks on 11.08.2019.
 //  Copyright © 2019 Wilhelm Oks. All rights reserved.
 //
 
